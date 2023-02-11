@@ -1,4 +1,4 @@
-package fam.ille;
+package fam.ille.grandParent;
 
 import fam.ille.enfant.Other;
 
@@ -14,5 +14,6 @@ public class App
 
         Other other = new Other();
         other.hello();
+
     }
 }

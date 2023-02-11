@@ -1,4 +1,4 @@
-package fam.ille;
+package fam.ille.cousin;
 
 /**
  * Hello world!
